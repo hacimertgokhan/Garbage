@@ -1,0 +1,14 @@
+name: Garbage
+version: '0.1'
+main: net.mixeration.Garbage
+prefix: Garbage
+load: STARTUP
+authors: [ Mixeration ]
+
+commands:
+  Garbagerel:
+    permission: Garbage.admin
+  Garbage:
+    permission: Garbage.open
+    aliases:
+      - disposal

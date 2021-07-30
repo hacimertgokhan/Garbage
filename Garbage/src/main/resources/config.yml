@@ -1,0 +1,11 @@
+# Permission - Garbage.open
+settings:
+  ask-permission: true
+
+menu:
+  gui-name: "Garbage"
+  gui-size: 56
+
+messages:
+  no-permission: '&7You dont have a permission !'
+  only-in-game: '&7Only in game !'
